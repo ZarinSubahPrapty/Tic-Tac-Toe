@@ -1,0 +1,19 @@
+# CMake build output
+/build/
+/cmake-build-*/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+x64/
+Debug/
+Release/
+
+# Generated binaries
+*.exe
+*.dll
+*.pdb
+*.ilk

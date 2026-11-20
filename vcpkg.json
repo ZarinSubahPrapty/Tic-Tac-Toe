@@ -1,0 +1,8 @@
+{
+  "name": "candy-tic-tac-toe",
+  "version-string": "1.0.0",
+  "builtin-baseline": "2fb57e1c4738d4b4484d2234c886caf006612222",
+  "dependencies": [
+    "sfml"
+  ]
+}
